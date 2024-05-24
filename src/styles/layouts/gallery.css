@@ -1,0 +1,6 @@
+.pet-photos-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  padding-top: 1rem;
+}

@@ -1,0 +1,10 @@
+.contact {
+  background-color: var(--color-gray-900);
+  color: var(--color-gray-100);
+  text-align: center;
+}
+
+.contact h2,
+.contact p {
+  margin-block: 2rem;
+}

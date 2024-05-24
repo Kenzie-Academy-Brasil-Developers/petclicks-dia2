@@ -5,13 +5,17 @@
   border: 0;
 }
 
-a {
+nav a {
   text-decoration: none;
 }
 
 button {
   background-color: transparent;
   cursor: pointer;
+}
+
+ul {
+  list-style: none;
 }
 
 img {

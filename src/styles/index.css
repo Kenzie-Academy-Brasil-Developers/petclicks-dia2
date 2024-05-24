@@ -1,2 +1,7 @@
 @import url("./reset.css");
 @import url("./globals.css");
+@import url("./layouts/header.css");
+@import url("./layouts/about.css");
+@import url("./layouts/gallery.css");
+@import url("./layouts/contact.css");
+@import url("./layouts/footer.css");
